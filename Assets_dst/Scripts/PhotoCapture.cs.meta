@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6303ccfc115e114fa714584846568f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - photoRenderTexture: {fileID: 8400000, guid: 09e0b9b1adf6ee94d8dca2b72560fbd6, type: 2}
+  - photoPreview: {fileID: 5112690218156922800, guid: 1683f120f1cafb6418faf8247a7a64e4, type: 3}
+  - photoMaterial: {fileID: 2100000, guid: 377b4d1388e6531499edb2ef2268e644, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
