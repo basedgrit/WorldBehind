@@ -9,3 +9,6 @@ You play as **Bri**, a young woman reeling from the sudden and mysterious loss o
 When Bri discovers her grandfather’s old camera and photography journal, she sets out to complete the photo bucket list he left behind. But as she ventures deeper into the park, retracing his steps through the wilderness, the answers she finds begin to reshape her understanding of the man she thought she knew.
 
 What begins as a quiet trip to honor his memory becomes a journey into **loss, discovery, and the unsettling truth behind his final days**.
+
+
+[Extra documents can be found here: https://drive.google.com/drive/folders/1x8FDmE-P-XRpnF_Hg_sG5L08gJSZYgcU?usp=drive_link]
